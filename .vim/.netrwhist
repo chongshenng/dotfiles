@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/ngcs/Downloads/bugs'
+let g:netrw_dirhist_2='/Users/ngcs/Desktop/simtest/vent-side/source/fluid_solver'
+let g:netrw_dirhist_1='/Users/ngcs/HomeSweetHome Dropbox/Chong Shen Ng/Projects-Code/git-repos/pof_COVID_hospital/.git'
